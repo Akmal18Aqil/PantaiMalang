@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PantaiMalang</string>
+    <string name="namaPantai">Pantai Contoh</string>
+    <string name="deskripsi_sekilas_dari_pantai">Deskripsi sekilas dari pantai</string>
+    <string name="contoh_nama_pantai">Contoh Nama</string>
+    <string name="teluk_asmara">Pantai Teluk Asmara</string>
+    <string name="watu_leter">Pantai Watu Leter</string>
+    <string name="goa_cina">Pantai Goa Cina</string>
+</resources>
